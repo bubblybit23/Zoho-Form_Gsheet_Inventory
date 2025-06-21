@@ -123,7 +123,7 @@ const ALERT_EMAIL_THRESHOLD_2 = 1;     // Send email when expiry is within this 
 
 // Low Stock Alert Configuration
 const LOW_STOCK_THRESHOLD = 5;         // Threshold below which products are considered low on stock
-```
+
 
 📧 Example Email Notification
 Subject Line Examples:
