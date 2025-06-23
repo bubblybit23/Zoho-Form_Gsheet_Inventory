@@ -7,6 +7,10 @@ This Google Apps Script solution empowers you to efficiently manage your invento
 
 The script dynamically updates your Google Sheet with status highlights and dispatches styled HTML email notifications to a configured recipient.
 
+Here's a sample of my Google Sheets:
+
+![Google Sheets Sample](g_sheets_sample.jpg)
+
 ---
 
 ## 📋 Features
